@@ -1,6 +1,8 @@
 using PackageCompiler
 create_sysimage([:Pluto, :PlutoUI,
-                 :Mechanical, :Unitful];
+                 :Mechanical, :Unitful,
+                 :PlotlyJS, :Plots, :PlotlyBase,
+                 :DataFrames];
                 #precompile_execution_file = "warmup.jl",
                 precompile_statements_file = "combined_trace.jl",
                 #replace_default = true,
