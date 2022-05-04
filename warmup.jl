@@ -6,7 +6,7 @@ using Pluto
 using PlutoUI
 
 #################
-# bolt pattern
+# bolt pattern  #
 #################
 
 # circle
