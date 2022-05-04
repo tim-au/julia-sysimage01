@@ -489,9 +489,9 @@ version = "0.3.1"
 
 [[deps.Mechanical]]
 deps = ["DataFrames", "LinearAlgebra", "Plots", "Unitful"]
-git-tree-sha1 = "21ff7b4b5e7bca01b85d61eed9c59f5b10c3234b"
+git-tree-sha1 = "25f531c935dd2291ad2a3a920f38726ce2da988b"
 uuid = "b6165d09-d606-4e15-90e2-256b7a45a1cf"
-version = "0.1.0"
+version = "0.1.1"
 
 [[deps.Missings]]
 deps = ["DataAPI"]
